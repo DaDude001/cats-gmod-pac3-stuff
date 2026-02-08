@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/akittu/stylizedexpie/bodycolor"
+	"$blendtintbybasealpha" 1
+Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		0 0 0
+		}
+                }
+}
